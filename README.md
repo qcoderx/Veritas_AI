@@ -60,6 +60,12 @@ Veritas AI is an AI-powered insurance claims fraud detection platform that accel
 - **AWS S3** file upload with presigned URLs
 - **Real-time data** fetching and updates
 
+### AWS Tools Deployed
+- **AWS Bedrock** For the smart comprehension of analyzed data and risk score generation
+- **AWS S3** For storing claim files ansd contents
+- **AWS Q** For AI copilot for further investigation of claims
+- **AWS Rekognition** For deep analysis of image content for odd things.
+
 ## 📁 Project Structure
 
 ```
